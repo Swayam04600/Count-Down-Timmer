@@ -9,7 +9,6 @@ A simple and efficient countdown timer built with HTML, CSS, and JavaScript. Thi
 - **Start/Stop Control:** Start, pause, or stop the timer at any point.
 - **Clear Display:** Shows the remaining time in an easy-to-read format.
 - **Responsive Design:** Compatible with various devices, including desktop and mobile.
-- **Alert Notification:** Optional notification when the timer reaches zero.
 
 ## Usage
 
